@@ -14,5 +14,9 @@ It creates some smooth variabilty with the possibility of wild jumps as well as 
 It works best when there are only a few multipliers in the gene pool of the species - when they get to too high of a percent, there are too many babies with fatal mutations (1's)
 
 
-Currently there is a well tested genome module, a non-graphical selective breeding simulation and a graphical sandbox which is a red-queen battle between plants and herbivores.
+Currently there is a well tested genome module, a non-graphical selective breeding simulation and a graphical cellular sandbox which is a red-queen battle between plants and herbivores.
 The graphical simulation uses tkinter, but I'll probably port to pygame for performance enhancements at some point.
+
+
+
+The cellular sandbox is really cool and all, but I'd at some point like to make a non-quantized world - where creatures might evolve in a more complex way - like evolving behavior
